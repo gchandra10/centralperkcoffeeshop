@@ -1,6 +1,6 @@
-#Central Perk Coffee House
+# Central Perk Coffee House
 
-##Visit us @ Central Perk
+## Visit us @ Central Perk
 
 - Specialty Coffee and Tea
 - Bagels, Muffins, and Organic Snacks
