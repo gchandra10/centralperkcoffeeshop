@@ -2,7 +2,7 @@
 
 ## Visit us @ Central Perk
 
-<img src="Central_Perk_Coffee_Shop.png" width="15%" align="left" />
+<img src="Central_Perk_Coffee_Shop.png" width="35%" align="left" />
 
 - Specialty Coffee and Tea
 - Bagels, Muffins, and Organic Snacks
